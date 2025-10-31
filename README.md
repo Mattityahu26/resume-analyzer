@@ -40,7 +40,7 @@ It helps job seekers understand how well their resume matches a particular job p
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/resume-analyzer.git
+git clone https://github.com/Mattityahu26/resume-analyzer.git
 cd resume-analyzer
 pip install -r requirements.txt
 streamlit run app.py
